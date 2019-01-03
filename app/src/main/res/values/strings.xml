@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">yam\'s</string>
+    <string name="button_main">Suivant</string>
+    <string name="play">Jouer</string>
+    <string name="end_game">End Game</string>
+    <string name="again">rejouer</string>
+</resources>
